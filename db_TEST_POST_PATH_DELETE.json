@@ -1,0 +1,1965 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "12e4a8cd-cbc5-41f8-8381-4121eae59b81",
+            "created_time": "2023-07-20T01:57:00.000Z",
+            "last_edited_time": "2023-07-20T01:57:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-12e4a8cdcbc541f883814121eae59b81",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "60f8b04d-ab20-433a-a5b1-16ccab5dbf65",
+            "created_time": "2023-07-20T01:56:00.000Z",
+            "last_edited_time": "2023-07-20T01:56:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-60f8b04dab20433aa5b116ccab5dbf65",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "900e2fa3-4b63-4b4e-a510-c957961cbeb5",
+            "created_time": "2023-07-20T01:33:00.000Z",
+            "last_edited_time": "2023-07-20T01:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-900e2fa34b634b4ea510c957961cbeb5",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "236ee3ef-39e7-4a63-a125-656b14775ccb",
+            "created_time": "2023-07-20T01:32:00.000Z",
+            "last_edited_time": "2023-07-20T01:32:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-236ee3ef39e74a63a125656b14775ccb",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0bd924b6-f835-4d66-a8d1-87153812c1f3",
+            "created_time": "2023-07-20T01:29:00.000Z",
+            "last_edited_time": "2023-07-20T01:57:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "updated val 3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "updated val 3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "updated val 2",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "updated val 2",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-0bd924b6f8354d66a8d187153812c1f3",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "3c9abcd1-4d01-4970-8ca6-ababe2021bc4",
+            "created_time": "2023-07-20T01:26:00.000Z",
+            "last_edited_time": "2023-07-20T01:26:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-3c9abcd14d0149708ca6ababe2021bc4",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "ed7a7b7f-03f9-486a-a334-9c63405ca6eb",
+            "created_time": "2023-07-20T01:26:00.000Z",
+            "last_edited_time": "2023-07-20T01:26:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-ed7a7b7f03f9486aa3349c63405ca6eb",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "df891149-43ac-4c3b-a750-6e7e2dc006ca",
+            "created_time": "2023-07-20T01:22:00.000Z",
+            "last_edited_time": "2023-07-20T01:22:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-df89114943ac4c3ba7506e7e2dc006ca",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "97949ae9-fcab-446b-9a91-86b2efa69165",
+            "created_time": "2023-07-20T01:21:00.000Z",
+            "last_edited_time": "2023-07-20T01:21:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-97949ae9fcab446b9a9186b2efa69165",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "76b3570f-a2ac-4e4f-9d2d-7790173fef67",
+            "created_time": "2023-07-20T01:20:00.000Z",
+            "last_edited_time": "2023-07-20T01:20:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-76b3570fa2ac4e4f9d2d7790173fef67",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "09636d5a-5baa-4e8d-b308-9e553bcd35d8",
+            "created_time": "2023-07-20T01:19:00.000Z",
+            "last_edited_time": "2023-07-20T01:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-09636d5a5baa4e8db3089e553bcd35d8",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "68b102a2-82a7-4bfb-89aa-beba005604c3",
+            "created_time": "2023-07-20T00:58:00.000Z",
+            "last_edited_time": "2023-07-20T00:58:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "150f0a4d-58f9-4bca-81c7-4d41c62e3b0a"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "432028c0-1e3f-426c-bfb1-f14f38535fb6"
+            },
+            "archived": false,
+            "properties": {
+                "Energy-prices-electricity": {
+                    "id": "%5C%5BRM",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "50.3",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "50.3",
+                            "href": null
+                        }
+                    ]
+                },
+                "Restaurants-cafes": {
+                    "id": "c%3Dda",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "0.9",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "0.9",
+                            "href": null
+                        }
+                    ]
+                },
+                "Rental-price-Growth": {
+                    "id": "kWgk",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "3.4",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "3.4",
+                            "href": null
+                        }
+                    ]
+                },
+                "Energy-prices-Gas": {
+                    "id": "mZu%60",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "76.1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "76.1",
+                            "href": null
+                        }
+                    ]
+                },
+                "food-beverage": {
+                    "id": "wtd%40",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1",
+                            "href": null
+                        }
+                    ]
+                },
+                "Month": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jul-23",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jul-23",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jul-23-68b102a282a74bfb89aabeba005604c3",
+            "public_url": null
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {}
+}
