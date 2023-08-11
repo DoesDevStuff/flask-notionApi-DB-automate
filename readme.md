@@ -9,6 +9,7 @@ This includes the python code to test the following:
 - POST
 - PATCH
 - UPDATE
+
 This has also gone through validation using postman.
 
 The database table in within the notion app, and the database was accessed by the python code using the notion api integration.
